@@ -1,16 +1,12 @@
 Author: Cole Nicholson-Rubidoux
 
-Course: CS375
-
-Project: Project 2 - Transformations and Fills
-
 Date: 7 December, 2020
 
-Short Description: This project is a continutation of project 1 with additional functionality for fills and translations
+Short Description: This code is designed to take as an input a .SVG image, rasterize it,
+		   and output the corresponding .bmp image.
 
-How to run it: Use input .svg file as a CLA 
+How to run it: Use input .svg file as a CLA $./SVG2BMP.out <input.svg>
 
-What works: All the functions work
-
-What doesn't work: Certain test images can cause a seg fault when parts of the image being filled are outside the image
+Note: Certain test images can cause a seg fault when parts of the image being filled are outside the image
+	  I wrote this for compilation with g++ compiler, I have no idea how this works with any other compiler on any other system
 
