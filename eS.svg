@@ -1,0 +1,7 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" >
+
+	<ellipse cx="90" cy="200" rx="75" ry="50" stroke="black" fill="none" transform="scale(0.75 1.25)" />
+	<ellipse cx="200" cy="90" rx="50" ry="75" stroke="black" fill="none" transform="scale(0.75 1.25)" />
+
+	<rect x="0" y="0" height="400" width="400" stroke="black" fill="none" />
+</svg >

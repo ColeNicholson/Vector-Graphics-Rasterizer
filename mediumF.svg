@@ -1,0 +1,32 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" >
+
+	<line x1="50" y1="0" x2="0" y2="400" stroke="black" />
+	<line x1="0" y1="50" x2="400" y2="0" stroke="black" />
+	<line x1="50" y1="50" x2="100" y2="100" stroke="black" />
+	<line x1="150" y1="50" x2="100" y2="100" stroke="black" />
+	<line x1="150" y1="150" x2="100" y2="100" stroke="black" />
+	<line x1="50" y1="150" x2="100" y2="100" stroke="black" />
+	<line x1="36" y1="100" x2="100" y2="100" stroke="black" />
+	<line x1="100" y1="36" x2="100" y2="100" stroke="black" />
+	<line x1="164" y1="100" x2="100" y2="100" stroke="black" />
+	<line x1="100" y1="164" x2="100" y2="100" stroke="black" />
+
+	<ellipse cx="90" cy="200" rx="75" ry="50" stroke="black" fill="green" />
+	<ellipse cx="200" cy="90" rx="50" ry="75" stroke="black" fill="blue" />
+
+	<rect x="275" y="25" height="150" width="50" stroke="black" fill="purple" />
+	<rect x="25" y="275" height="50" width="150" stroke="black" fill="red" />
+	<rect x="250" y="200" height="100" width="140" rx="20" ry="20" stroke="black" fill="orange" />
+	<rect x="275" y="220" height="60" width="90" rx="10" ry="35" stroke="black" fill="yellow" />
+	
+	<path d="M 0 400 Q 200 300 400 400" stroke="black" fill="green" />
+	<path d="M 400 0 C 250 100 480 300 350 400" stroke="black" fill="blue" />
+	<path d="M 210 250 C 150 350 270 350 210 250" stroke="black" fill="purple" />
+	<polygon points="200,131.18 215.453,178.731 265.452,178.733 225.003,208.124 240.451,255.677 200,226.29 159.549,255.677 174.997,208.124 134.548,178.734 184.547,178.731" stroke="black" fill="red" />
+
+	<polyline points="5,368 15,350 25,372 35,346 45,376 55,342 65,380 75,338 85,384 95,334 105,388 115,334 125,388 135,334 145,388 155,334 165,388 175,334 185,388 195,334 205,388 215,334 225,388 235,334 245,388 255,334 265,388 275,334 285,388 295,334 305,388 315,338 325,384 335,342 345,380 355,346 365,376 375,350 385,372 395,354" stroke="black" fill="orange" />
+
+	<circle cx="200" cy="200" r="20" stroke="black" fill="yellow" />
+
+	<rect x="0" y="0" height="400" width="400" stroke="black" fill="none" />
+</svg >
